@@ -1,0 +1,29 @@
+{
+  "name": "akos-logger-simple",
+  "version": "0.0.1",
+  "description": "a simple logger for akos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akos/akos-logger-simple.git"
+  },
+  "keywords": [
+    "logger",
+    "akos",
+    "koa",
+    "node.js"
+  ],
+  "author": "ALps_Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akos/akos-logger-simple/issues"
+  },
+  "homepage": "https://github.com/akos/akos-logger-simple#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0"
+  }
+}
